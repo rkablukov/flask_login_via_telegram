@@ -1,4 +1,4 @@
-# Flask Login with Telegram Login for Websites
+# Flask Login via Telegram Login for Websites
 
 Demo application which uses flask, flask-login, flask-sqlalchemy and Telegram Login for Websites.
 
